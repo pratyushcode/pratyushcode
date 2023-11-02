@@ -1,9 +1,41 @@
-<h1 align="center">Hi 👋, I'm Pratyush Kumar Sinha</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<!DOCTYPE html>
+<html>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<head>
+    <title>Pratyush Kumar Sinha</title>
+</head>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<body>
+    <h1 style="text-align: center;">Hi 👋, I'm Pratyush Kumar Sinha</h1>
+    <h3 style="text-align: center;">A passionate computer science student from India</h3>
+
+    <h3>Connect with me:</h3>
+    <p>
+        <!-- Add your social media or contact links here -->
+    </p>
+
+    <h3>Languages and Tools:</h3>
+    <p>
+        <!-- Update your links and images for the languages and tools you want to showcase -->
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+        </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+        </a>
+    </p>
+</body>
+
+</html>
