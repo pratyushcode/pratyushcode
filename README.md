@@ -7,7 +7,7 @@
 
 <body>
     <h1 style="text-align: center;">Hi 👋, I'm Pratyush Kumar Sinha</h1>
-    <h3 style="text-align: center;">A passionate computer science student from India</h3>
+    <h3 style="text-align: center;">A versatile software engineer with a relentless pursuit of knowledge</h3>
         <h3>Connect with me:</h3>
     <p>
         <!-- Add your social media links or contact information here -->
