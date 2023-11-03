@@ -28,7 +28,7 @@
             <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo-thumbnail.png" alt="mysql" width="40" height="40" />
         </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png)https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="python" width="40" height="40" />
+            <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="python" width="40" height="40" />
         </a>
     </p>
 </body>
