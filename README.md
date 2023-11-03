@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Pratyush Kumar Sinha</title>
+
 </head>
 
 <body>
@@ -11,9 +11,8 @@
         <h3>Connect with me:</h3>
     <p>
         <!-- Add your social media links or contact information here -->
-        <a href="https://www.linkedin.com/in/pratyush-kumar-sinha" target="_blank" rel="noreferrer">LinkedIn</a> |
-        <a href="https://twitter.com/YourTwitterHandle" target="_blank" rel="noreferrer">Twitter</a> |
-        <a href="mailto:youremail@example.com">Email</a>
+        <a href="https://www.linkedin.com/in/pratyush-kumar-sinha-454a47225/" target="_blank" rel="noreferrer">LinkedIn</a> |
+        <a href="mailto:pratyushksinha21@gmail.com">Email</a>
     </p>
     <h3>Languages and Tools:</h3>
     <p>
