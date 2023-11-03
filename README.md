@@ -8,7 +8,13 @@
 <body>
     <h1 style="text-align: center;">Hi 👋, I'm Pratyush Kumar Sinha</h1>
     <h3 style="text-align: center;">A passionate computer science student from India</h3>
-    <h3>Connect with me:</h3>
+        <h3>Connect with me:</h3>
+    <p>
+        <!-- Add your social media links or contact information here -->
+        <a href="https://www.linkedin.com/in/pratyush-kumar-sinha" target="_blank" rel="noreferrer">LinkedIn</a> |
+        <a href="https://twitter.com/YourTwitterHandle" target="_blank" rel="noreferrer">Twitter</a> |
+        <a href="mailto:youremail@example.com">Email</a>
+    </p>
     <h3>Languages and Tools:</h3>
     <p>
         <!-- Update your links and images for the languages and tools you want to showcase -->
